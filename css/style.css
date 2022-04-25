@@ -21,7 +21,7 @@ body{
 }
 .header {
     height: 100vh;
-    background-image: linear-gradient(to top, rgba(252, 183, 44, 0.116) 0%, rgba(214, 148, 41, 0.073) 100%), url(paginas/assets/gennarotarjeta1.jpg);
+    background-image: linear-gradient(to top, rgba(252, 183, 44, 0.116) 0%, rgba(214, 148, 41, 0.073) 100%), url(paginas/assets/tarjeta.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
